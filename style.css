@@ -1159,3 +1159,20 @@ footer {
         padding: 30px 22px;
     }
 }
+
+/* Perbaikan warna font */
+body {
+    color: #222222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222222;
+}
+
+p {
+    color: #555555;
+}
+
+.navbar a {
+    color: #555555;
+}
