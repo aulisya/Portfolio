@@ -449,6 +449,7 @@ body {
 
 .about-text p {
     margin-bottom: 20px;
+    color: #000000 !important;
 }
 
 .about-cards {
