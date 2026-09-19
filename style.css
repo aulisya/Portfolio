@@ -873,6 +873,7 @@ body {
 
 .contact-links a {
     color: #000000;
+    background: transparent !important;
 
     font-size: 11px;
 
